@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Streak](https://streak-stats.demolab.com?user=Mia1Dimit&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mia1Dimit&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mia1Dimit&layout=compact&theme=tokyonight&exclude_repo=ECG-Analysis-LabView,Advanced-IoT-monitoring-system-of-muscle-fatigue-using-sEMG-Arduino,Thesis,MuscleInsight)
