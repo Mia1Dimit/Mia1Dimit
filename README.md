@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Dimitris
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mia1Dimit&show_icons=true&theme=tokyonight)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Mia1Dimit&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=Mia1Dimit&theme=tokyonight) 
 
