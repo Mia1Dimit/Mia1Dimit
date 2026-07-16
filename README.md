@@ -1,10 +1,9 @@
-# Hi there 👋 I'm Dimitris
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=Mia1Dimit&show_icons=true&theme=tokyonight)
+# Hi there 👋 I'm Dimitris, a Platform Engineer! 
 
 ![Streak](https://streak-stats.demolab.com?user=Mia1Dimit&theme=tokyonight) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mia1Dimit&layout=compact&theme=tokyonight&exclude_repo=ECG-Analysis-LabView,Advanced-IoT-monitoring-system-of-muscle-fatigue-using-sEMG-Arduino,Thesis,MuscleInsight)
+## My Stats
+![My Stats](https://github-readme-stats.vercel.app/api?username=Mia1Dimit&show_icons=true&theme=tokyonight)
 
 ## 📈 Contribution Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mia1Dimit&theme=tokyo-night)
